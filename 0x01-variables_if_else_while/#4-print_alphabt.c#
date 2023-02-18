@@ -1,0 +1,20 @@
+#include <stdio.h>
+/**
+* main - this main function
+* Return: always 0
+*/
+int main(void)
+{
+int x;
+for (x = 'a' ; x <= 'z' ; x++)
+{
+if (x = ! q )
+{
+putchar(x);
+}
+ else if (x = ! e)
+   {
+}
+putchar("\n");
+return (0);
+}
