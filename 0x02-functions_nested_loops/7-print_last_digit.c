@@ -2,7 +2,7 @@
 /**
 * print_last_digit - a function that prints the last digit of a number.
 *@c : number that we need its last digit
-*Return: 0
+*Return: t
 **/
 int print_last_digit(int c)
 {
@@ -12,5 +12,5 @@ if (t < 0)
 t *= -1;
 }
 _putchar(t + '0');
-return (0);
+return (t);
 }
